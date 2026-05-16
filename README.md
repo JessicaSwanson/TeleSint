@@ -40,8 +40,6 @@ The bot helps with:
 - ✅ Public activity monitoring
 - ✅ Forwarded messages and links analysis
 
-**Official bot:** [@telesint_bot](https://t.me/telesint_bot)
-
 **Launch bot:** [Open TeleSINT](https://t.me/telesinttrobot)
 
 ---
@@ -128,7 +126,6 @@ Use of such tools must comply with:
 
 ## 🔗 Resources
 
-- **Official Bot:** [@telesint_bot](https://t.me/telesint_bot)
 - **Launch Bot:** [https://t.me/telesinttrobot](https://t.me/telesinttrobot)
 
 ---
@@ -138,8 +135,6 @@ Use of such tools must comply with:
 After testing several Telegram OSINT tools, TeleSINT turned out to be one of the most convenient services for daily work within Telegram.
 
 Without a cluttered interface, with intuitive search and convenient Telegram activity monitoring.
-
-**Bot:** [@telesint_bot](https://t.me/telesint_bot)
 
 **Launch:** [https://t.me/telesinttrobot](https://t.me/telesinttrobot)
 
